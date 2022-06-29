@@ -1,2 +1,2 @@
 #!/bib/bash
-printf %xn $DECIMAL
+tr A-Za-z N-ZA-Mn-za-m 
